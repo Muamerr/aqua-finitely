@@ -1,0 +1,8 @@
+name: AquaFinitely
+version: 1.0
+main: com.muamerr.aquafinitely.AquaFinitely
+api-version: 1.21
+description: Adds a powerful Mace with boost, dash, and high jump abilities.
+commands:
+  aquamace:
+    description: Gives the player a custom Aqua Mace
